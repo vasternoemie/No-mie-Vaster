@@ -1,0 +1,21 @@
+h1 {
+	color: royalblue;
+	font-size: 60px;
+	font-family: 'Dosis', sans-serif;
+}
+
+h3 {    
+	color: royalblue ;
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+}
+
+body {
+	color: rgd(77, 37, 250);	/*blueviolet*/
+	background-color: #ffffff;	/*white*/
+}
+
+<img src="ville.png" class="img-circle">
+<img src="montagne.png" class="img-circle">
+<img src="paysage.png" class="img-circle">
+<img src="route.png" class="img-circle">
